@@ -1,5 +1,5 @@
-# text-similarity
-Text similarity using GloVe and LSTM on pytorch.  
+# Text similarity
+Evaluating the semantic similarity between sentence pairs using GloVe and LSTM on pytorch.  
 
 #### Data
 The dataset used for this project is the SICK dataset (Sentences Involving Compositional Knowledge, by Marelli et al.).  
